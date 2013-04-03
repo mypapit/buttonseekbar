@@ -13,6 +13,4 @@ Here is a quick how to guide to start using ButtonSeekBar
 
 == Using ButtonSeekBar ==
 
-== Common Error ==
-
-
+== Common Error and Mistakes ==
